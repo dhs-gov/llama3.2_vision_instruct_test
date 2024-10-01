@@ -4,7 +4,7 @@ Simple test of Llama-3.2-11b-vision-instruct for detecting damage to structures.
 
 ### Example 1
 
-![Example 1](https://www.researchgate.net/profile/Mehrshad-Amini/publication/340062988/figure/fig2/AS:871194861502466@1584720449974/Structural-damage-to-elevated-houses-due-to-the-wind-during-Hurricane-Katrina-2005-FEMA.jpg)
+![Example 1](img/70946284-1c60-4cee-ad03-0b4f56c501e4.jpg)
 
 ### Model Response
 This image depicts a two-story house with a severely damaged roof and garage. The roof appears to have been partially removed, with exposed beams and missing shingles, while the garage door lies on the driveway, seemingly detached from the structure. The house features...
