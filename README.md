@@ -11,7 +11,7 @@ This image depicts a two-story house with a severely damaged roof and garage. Th
 
 ### Example 2
 
-![Example 2](https://images.e-flux-systems.com/Image_0_Effects_of_Hurricane_Charley_from_FEMA_Photo_Library_7.jpg,1600)
+![Example 2](img/aebbe0fd-86da-411e-9da5-45d06ef4cb74.jpg)
 
 ### Model Response
 This image depicts a two-story house with a severely damaged roof and garage. The roof appears to have been partially removed, with exposed beams and missing shingles, while the garage door lies on the driveway, seemingly detached from the structure. The house features...
