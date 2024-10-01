@@ -18,7 +18,7 @@ This image depicts a two-story house with a severely damaged roof and garage. Th
 
 ### Example 3
 
-![Example 3](https://img.freepik.com/free-photo/modern-house-architectural-design-photography_1409-6516.jpg?t=st=1727709206~exp=1727712806~hmac=193e2ee44a329b8956e64a1b1433ffb94ba885439ed6d8086e01839fab0582a9&w=1480)
+![Example 3](img/cf02cc23-3422-4dcb-a617-3b5fdcb1a5f4.jpg)
 
 ### Model Response
 This image depicts a two-story house with a severely damaged roof and garage. The roof appears to have been partially removed, with exposed beams and missing shingles, while the garage door lies on the driveway, seemingly detached from the structure. The house features...
