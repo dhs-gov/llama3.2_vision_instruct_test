@@ -1,5 +1,5 @@
 # Vision Instruction Test
-Simple test of Llama-3.2-11b-vision-instruct model for detecting damage to structures.
+Simple test of Llama-3.2-11b-vision-instruct model for detecting damage to structures. This code is a minor modification of the example on [Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct).
 
 
 ## Example 1
